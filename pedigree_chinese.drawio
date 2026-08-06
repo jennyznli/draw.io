@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="UVKmu2cIaoq04lnsS7Fv">
-    <mxGraphModel dx="1479" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QFVFE1wtCiGC9-8A_iHA-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;perimeterSpacing=0;strokeWidth=1;strokeColor=#B5B5B5;" value="" vertex="1">
-          <mxGeometry height="220" width="440" x="-30" y="120" as="geometry" />
+          <mxGeometry height="260" width="440" x="-30" y="80" as="geometry" />
         </mxCell>
         <mxCell id="rgBFmtwsOWsOkLkwQcQ0-3" edge="1" parent="1" source="rgBFmtwsOWsOkLkwQcQ0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="rgBFmtwsOWsOkLkwQcQ0-5">
           <mxGeometry relative="1" as="geometry" />
@@ -245,8 +245,8 @@
         <mxCell id="QFVFE1wtCiGC9-8A_iHA-89" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;男性&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="157" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="QFVFE1wtCiGC9-8A_iHA-92" parent="1" style="text;whiteSpace=wrap;fontSize=13;" value="传奇" vertex="1">
-          <mxGeometry height="40" width="60" x="67" y="90" as="geometry" />
+        <mxCell id="QFVFE1wtCiGC9-8A_iHA-92" parent="1" style="text;whiteSpace=wrap;fontSize=16;" value="传奇" vertex="1">
+          <mxGeometry height="40" width="60" x="180" y="90" as="geometry" />
         </mxCell>
         <mxCell id="QFVFE1wtCiGC9-8A_iHA-94" parent="1" style="text;whiteSpace=wrap;" value="癌症类型 (颜色)" vertex="1">
           <mxGeometry height="40" width="100" x="-8" y="147" as="geometry" />
