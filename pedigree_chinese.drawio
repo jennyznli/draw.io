@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="UVKmu2cIaoq04lnsS7Fv">
-    <mxGraphModel dx="477" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QFVFE1wtCiGC9-8A_iHA-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;dashed=1;perimeterSpacing=0;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="220" width="330" x="70" y="40" as="geometry" />
+        </mxCell>
         <mxCell id="rgBFmtwsOWsOkLkwQcQ0-3" edge="1" parent="1" source="rgBFmtwsOWsOkLkwQcQ0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="rgBFmtwsOWsOkLkwQcQ0-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -51,13 +54,13 @@
           <mxGeometry height="40" width="40" x="200" y="520" as="geometry" />
         </mxCell>
         <mxCell id="rgBFmtwsOWsOkLkwQcQ0-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;卵巢&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="90" y="260" as="geometry" />
+          <mxGeometry height="40" width="40" x="100" y="60" as="geometry" />
         </mxCell>
         <mxCell id="rgBFmtwsOWsOkLkwQcQ0-26" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;冒号&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="170" y="260" as="geometry" />
+          <mxGeometry height="40" width="40" x="170" y="60" as="geometry" />
         </mxCell>
         <mxCell id="rgBFmtwsOWsOkLkwQcQ0-33" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;胃&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="250" y="260" as="geometry" />
+          <mxGeometry height="40" width="40" x="247" y="60" as="geometry" />
         </mxCell>
         <mxCell id="rgBFmtwsOWsOkLkwQcQ0-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;检测：无&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 7px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;约56岁确诊；IIIA期，单侧卵巢有3-4厘米病灶；接受了根治性手术及8个疗程化疗；至今未见复发。&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="55" width="60" x="310" y="575" as="geometry" />
@@ -230,41 +233,20 @@
         <mxCell id="QFVFE1wtCiGC9-8A_iHA-77" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillStyle=hatch;fillColor=#A1A1A1;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="300" y="408.96" as="geometry" />
         </mxCell>
-        <mxCell id="QFVFE1wtCiGC9-8A_iHA-78" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;ovarian&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="90" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QFVFE1wtCiGC9-8A_iHA-79" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;colon&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="150" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QFVFE1wtCiGC9-8A_iHA-80" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;gastric&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="210" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QFVFE1wtCiGC9-8A_iHA-81" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=hatch;fillColor=#D9D9D9;" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;deceased&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="250" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="QFVFE1wtCiGC9-8A_iHA-82" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;untested&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="270" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QFVFE1wtCiGC9-8A_iHA-83" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=hatch;fillColor=none;" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;female&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="90" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="QFVFE1wtCiGC9-8A_iHA-84" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;male&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="150" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="QFVFE1wtCiGC9-8A_iHA-85" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;negative test&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="330" y="80" as="geometry" />
-        </mxCell>
         <mxCell id="QFVFE1wtCiGC9-8A_iHA-86" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;未进行测试&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="307" y="260" as="geometry" />
+          <mxGeometry height="40" width="40" x="320" y="60" as="geometry" />
         </mxCell>
         <mxCell id="QFVFE1wtCiGC9-8A_iHA-87" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=hatch;fillColor=#D9D9D9;" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;死者&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="385" y="260" as="geometry" />
+          <mxGeometry height="40" width="40" x="100" y="130" as="geometry" />
         </mxCell>
         <mxCell id="QFVFE1wtCiGC9-8A_iHA-88" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=hatch;fillColor=none;" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;女性&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="90" y="320" as="geometry" />
+          <mxGeometry height="40" width="40" x="100" y="200" as="geometry" />
         </mxCell>
         <mxCell id="QFVFE1wtCiGC9-8A_iHA-89" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;男性&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="150" y="320" as="geometry" />
+          <mxGeometry height="40" width="40" x="160" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QFVFE1wtCiGC9-8A_iHA-92" parent="1" style="text;whiteSpace=wrap;fontSize=13;" value="传奇" vertex="1">
+          <mxGeometry height="40" width="60" x="70" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
